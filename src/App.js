@@ -3,7 +3,7 @@ import './App.css';
 // import {DemoButton,DemoButtonA} from 'demo-lib'; // Import the DemoButton component
 //import {DemoButton,DemoButtonA} from 'clr-lib'; // Import the DemoButton component
 //import {DemoButton,DemoButtonA} from '@monorepo/package2'; // Import the DemoButton component
-import {DemoButton,DemoButtonA} from '@naut/components'; // Import the DemoButton component
+import {DemoButton,DemoButtonA} from '@demo/lib'; // Import the DemoButton component
 
 function App() {
   return (

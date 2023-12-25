@@ -1,5 +1,5 @@
 {
-  "name": "demo-app",
+  "name": "react-package-consumer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
